@@ -1,0 +1,4 @@
+C:\Users\P4075\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\LINOIS Louis\TestPrivateGallery\1.0\\TestPrivateGallery.dll
+C:\Users\P4075\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\LINOIS Louis\TestPrivateGallery\1.0\\TestPrivateGallery.pdb
+C:\Users\P4075\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\LINOIS Louis\TestPrivateGallery\1.0\\TestPrivateGallery.pkgdef
+C:\Users\P4075\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\LINOIS Louis\TestPrivateGallery\1.0\\extension.vsixmanifest
