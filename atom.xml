@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title type="text" />
+  <id>uuid:fef624f8-4603-4734-8c4c-39c6e3dbc48c;id=1</id>
+  <updated>2011-04-14T21:25:48Z</updated>
+   <entry>
+    <id>TestPrivateGallery.LINOIS Louis.206eec07-5b7e-4836-a052-2ed5d8856ace</id>
+    <title type="text">TestGallery</title>
+    <summary type="text">RRA</summary>
+    <published>2011-04-14T14:24:51-07:00</published>
+    <updated>2011-04-14T14:24:22-07:00</updated>
+    <author>
+      <name>Louis</name>
+    </author>
+    <content type="application/octet-stream" src="TestPrivateGallery.vsix" />
+    <Vsix xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.microsoft.com/developer/vsx-syndication-schema/2010">
+      <Id>TestPrivateGallery.LINOIS Louis.206eec07-5b7e-4836-a052-2ed5d8856ace</Id>
+      <Version>1.0</Version>
+      <References />
+      <Rating xsi:nil="true" />
+    </Vsix>
+  </entry>
+</feed>
